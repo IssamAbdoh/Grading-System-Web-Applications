@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [29/Apr/2022:16:58:19 +0300] "GET / HTTP/1.1" 200 1202 http-bio-8080-exec-1 1105
+0:0:0:0:0:0:0:1 - - [29/Apr/2022:16:58:34 +0300] "POST /login.servlets HTTP/1.1" 404 979 http-bio-8080-exec-2 3
+0:0:0:0:0:0:0:1 - - [29/Apr/2022:16:59:50 +0300] "GET /login.servlets HTTP/1.1" 200 1202 http-bio-8080-exec-4 34
+0:0:0:0:0:0:0:1 - - [29/Apr/2022:17:00:01 +0300] "POST /login.servlets HTTP/1.1" 200 1041 http-bio-8080-exec-5 2211
+0:0:0:0:0:0:0:1 - - [29/Apr/2022:17:00:13 +0300] "GET /login.servlets HTTP/1.1" 200 1202 http-bio-8080-exec-6 39
+0:0:0:0:0:0:0:1 - - [29/Apr/2022:17:00:17 +0300] "POST /login.servlets HTTP/1.1" 200 1173 http-bio-8080-exec-7 415
+0:0:0:0:0:0:0:1 - - [29/Apr/2022:17:00:19 +0300] "GET /course-information.servlets?course=computer&studentID=3 HTTP/1.1" 200 1485 http-bio-8080-exec-8 170
+0:0:0:0:0:0:0:1 - - [29/Apr/2022:17:00:22 +0300] "GET /course-information.servlets?course=physical%20education&studentID=3 HTTP/1.1" 200 1516 http-bio-8080-exec-9 20
+0:0:0:0:0:0:0:1 - - [29/Apr/2022:17:00:26 +0300] "GET /course-information.servlets?course=chemistry&studentID=3 HTTP/1.1" 200 1488 http-bio-8080-exec-10 14
+0:0:0:0:0:0:0:1 - - [29/Apr/2022:17:05:29 +0300] "GET / HTTP/1.1" 200 1202 http-bio-8080-exec-1 723
+0:0:0:0:0:0:0:1 - - [29/Apr/2022:17:05:41 +0300] "POST /login.servlets HTTP/1.1" 200 1173 http-bio-8080-exec-2 1475
+0:0:0:0:0:0:0:1 - - [29/Apr/2022:17:05:43 +0300] "GET /course-information.servlets?course=chemistry&studentID=3 HTTP/1.1" 200 1488 http-bio-8080-exec-3 17
+0:0:0:0:0:0:0:1 - - [29/Apr/2022:17:05:47 +0300] "GET /course-information.servlets?course=physical%20education&studentID=3 HTTP/1.1" 200 1516 http-bio-8080-exec-4 9
+0:0:0:0:0:0:0:1 - - [29/Apr/2022:22:47:04 +0300] "GET / HTTP/1.1" 200 1202 http-bio-8080-exec-1 963
+0:0:0:0:0:0:0:1 - - [29/Apr/2022:22:47:17 +0300] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-2 6
+0:0:0:0:0:0:0:1 - - [29/Apr/2022:22:47:21 +0300] "POST /login.servlets HTTP/1.1" 200 1173 http-bio-8080-exec-3 1625
+0:0:0:0:0:0:0:1 - - [29/Apr/2022:22:47:29 +0300] "GET /course-information.servlets?course=computer&studentID=3 HTTP/1.1" 200 1485 http-bio-8080-exec-4 44

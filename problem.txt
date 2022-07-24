@@ -1,0 +1,28 @@
+Build a Students grading system with the following specs:
+
+ 
+
+1) Start by building the system using the command line/ Sockets and JDBC in the backend.
+
+ 
+
+2) Then, take the system a step further by making it a web app/ Rest API using traditional MVC Servlets/ JSPs (No Spring framework here).
+
+ 
+
+3) Then, do the same thing using Spring MVC/Spring REST and you can keep the backend JDBC and/or use Spring JDBC tempate.  
+
+ 
+
+System requirements:
+
+- Students can login to their accounts
+
+- Students can see their marks in different courses,and select a particular course to see their mark and the class avg/ median/ highest/lowest marks.
+
+- Use MySql as a DB.
+
+- You need to have a good understanding for Servlets/JSPs as they are required by Atypon (Usually there are questions about Servlets/JSPs and web apps  in Atypon interviews).
+
+- Record a video (8 mins max) to explain your solution and explain how you progressed from an implementation to the next. 
+

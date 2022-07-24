@@ -1,0 +1,7 @@
+database\Database.class
+springmvcapp\DisplayInformationController.class
+app\services\LoginService.class
+app\servlets\DisplayInformationServlet.class
+app\services\DataRetrievingService.class
+springmvcapp\LoginController.class
+app\servlets\LoginServlet.class
